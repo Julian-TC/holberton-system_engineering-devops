@@ -1,2 +1,2 @@
 #!/bin/bash
-alias 10-back = "cd .."
+alias 10-back="cd .."
