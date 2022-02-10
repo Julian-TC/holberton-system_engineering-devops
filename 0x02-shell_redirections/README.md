@@ -1,0 +1,1 @@
+echo "Messeng" --> handles writing each given STRING to standard output. 
